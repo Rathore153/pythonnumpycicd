@@ -1,7 +1,13 @@
 this is my first time to built and update my skills.
-updating my skills to br=ecome an automation engineer.
+<br>
+updating my skills to become an automation engineer.
+<br>
 learning python programming and scriptin.
+<br>
 learning bash scriptin.
-lybrary-nympy,netmik,napalm
-understanding telecom
-Devops for automation
+<br>
+lybrary-nympy,netmik,napalm.
+<br>
+understanding telecom.
+<br>
+Devops for automation.
